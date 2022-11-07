@@ -1,0 +1,9 @@
+name: GLib
+version: '${project.version}'
+main: world.ntdi.glib.GLib
+api-version: 1.19
+prefix: GLib
+load: STARTUP
+authors: [ Ntdi ]
+description: A intuitive GUI library
+website: ntdi.world
